@@ -31,14 +31,6 @@ I'm a passionate Tech Leader with a strong background in Python development, Kub
 
 ---
 
-### 📫 How to Reach Me
-
-- [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- [Twitter](https://twitter.com/your-handle)  
-- Email: your.email@example.com
-
----
-
 ### 💡 Fun Fact
 
 > I'm always up for a good math puzzle or a Kubernetes deployment challenge!
